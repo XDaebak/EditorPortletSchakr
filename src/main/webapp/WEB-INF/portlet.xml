@@ -24,8 +24,8 @@
 
     <portlet>
         <description>This is a test.</description>
-        <portlet-name>freshPortlet</portlet-name>
-        <display-name>Fresh Portlet</display-name>
+        <portlet-name>editorPortlet</portlet-name>
+        <display-name>Editor Portlet (Schakr)</display-name>
         <portlet-class>org.apache.portals.tutorials.MyPortlet</portlet-class>
         
         <supports>
@@ -34,9 +34,9 @@
         </supports>
         <supported-locale>en</supported-locale>
         <portlet-info>
-            <title>Fresh Portlet</title>
-            <short-title>Fresh Portlet</short-title>
-            <keywords>fresh</keywords>
+            <title>Editor Portlet</title>
+            <short-title>Editor Portlet</short-title>
+            <keywords>schakr</keywords>
         </portlet-info>
     </portlet>
 
